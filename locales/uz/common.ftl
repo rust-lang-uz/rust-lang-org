@@ -3,64 +3,64 @@
 rust = Rust
 
 
-get-started-exclamation = Get started!
-getting-started = Getting started
-why-rust = Why Rust?
-production-use = Production use
-learn-more = Learn More
+get-started-exclamation = Boshlash!
+getting-started = Ishni boshlash
+why-rust = Nima uchun Rust?
+production-use = Ishlab chiqarishda foydalanish
+learn-more = Batafsil ma'lumot
 discord = Discord
 zulip = Zulip
 
 ## components/panels/domain.hbs
 
 cli-learn-more = Building Tools
-wasm-learn-more = Writing Web Apps
-net-learn-more = Working On Servers
-embedded-learn-more = Starting With Embedded
+wasm-learn-more = Veb-ilovalarni yozish
+net-learn-more = Serverlar ustida ishlash
+embedded-learn-more = Embedded bilan boshlash
 
 ## components/layout.hbs
 
-meta-description = A language empowering everyone to build reliable and efficient software.
-page-title = { $pagename } - Rust Programming Language
-index-title = Rust Programming Language
+meta-description = Ishonchli va samarali dasturiy ta'minotni yaratish uchun barchaga imkon beruvchi til.
+page-title = { $pagename } - Rust dasturlash tili
+index-title = Rust dasturlash tili
 
 ## components/nav.hbs
 
-nav-install = Install
-nav-learn = Learn
+nav-install = O'rnatish
+nav-learn = O'rganing
 nav-tools = Tools
-nav-governance = Governance
-nav-community = Community
+nav-governance = Boshqaruv
+nav-community = Jamiyat
 nav-blog = Blog
 nav-playground = Playground
 
-choose-language = Language
+choose-language = Til
 
 nav-logo-alt = Rust Logo
 
 ## components/footer.hbs
 
-footer-doc = Documentation
-footer-ask = Ask a Question on the Users Forum
-footer-sup-doc = Rust Forge (Contributor Documentation)
-footer-policies = Terms and policies
-footer-coc = Code of Conduct
-footer-licenses = Licenses
-footer-media = Logo Policy and Media Guide
-footer-security = Security Disclosures
-footer-policies-all = All Policies
-footer-social = Social
-footer-get-help = Get help!
+footer-doc = Texnik Hujjatlar
+footer-ask = Foydalanuvchilar forumida savol bering
+footer-sup-doc = Rust Forge (Hissa qo'shuvchilar uchun hujjatlar)
+footer-policies = Shartlar va siyosatlar
+footer-coc = Odob-axloq qoidalari
+footer-licenses = Litsenziyalar
+footer-media = Logotip va media siyosati boʻyicha qoʻllanma
+footer-security = Zaifliklar haqida hisobot
+footer-policies-all = Barcha siyosatlar
+footer-social = Ijtimoiy tarmoqlar
+footer-get-help = Yordam oling!
 
 footer-youtube-alt = Twitter
 footer-alt-youtube = youtube logo
 footer-discord-alt = { discord }
 footer-github-alt = GitHub
 
-footer-attribution = Maintained by the Rust Team. See a bug?
-        <a href="https://github.com/rust-lang/www.rust-lang.org/issues/new/choose">File an issue!</a>
+footer-attribution = Rust jamoasi tomonidan saqlanmoqda. Xato bormi?
+        <a href="https://github.com/rust-lang/www.rust-lang.org/issues/new/choose">Muammoni yozing!</a>
 
 footer-old-site = Looking for the <a href="https://prev.rust-lang.org">previous website</a>?
 
 ## what/index.hbs
-what-header = What
+what-header = Foydalanish holatlari
