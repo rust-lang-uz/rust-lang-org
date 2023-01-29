@@ -80,6 +80,10 @@ pub const EXPLICIT_LOCALE_INFO: &[LocaleInfo] = &[
         text: "Türkçe",
     },
     LocaleInfo {
+        lang: "uz",
+        text: "O'zbek",
+    },
+    LocaleInfo {
         lang: "zh-CN",
         text: "简体中文",
     },
