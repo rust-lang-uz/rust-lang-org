@@ -2,26 +2,26 @@
 
 ## templates/policies/code-of-conduct.hbs
 
-policies-code-of-conduct-page-title = Code of conduct
+policies-code-of-conduct-page-title = Odob-axloq qoidalari
 
-coc-conduct-heading = Conduct
+coc-conduct-heading = Odob-axloq
 coc-conduct-description =
         <ul>
-          <li>We are committed to providing a friendly, safe and welcoming environment for all, regardless of level of experience, gender identity and expression, sexual orientation, disability, personal appearance, body size, race, ethnicity, age, religion, nationality, or other similar characteristic.</li>
-          <li>Please avoid using overtly sexual aliases or other nicknames that might detract from a friendly, safe and welcoming environment for all.</li>
-          <li>Please be kind and courteous. There’s no need to be mean or rude.</li>
-          <li>Respect that people have differences of opinion and that every design or implementation choice carries a trade-off and numerous costs. There is seldom a right answer.</li>
-          <li>Please keep unstructured critique to a minimum. If you have solid ideas you want to experiment with, make a fork and see how it works.</li>
-          <li>We will exclude you from interaction if you insult, demean or harass anyone. That is not welcome behavior. We interpret the term “harassment” as including the definition in the <a href="https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md">Citizen Code of Conduct</a>; if you have any lack of clarity about what might be included in that concept, please read their definition. In particular, we don’t tolerate behavior that excludes people in socially marginalized groups.</li>
-          <li>Private harassment is also unacceptable. No matter who you are, if you feel you have been or are being harassed or made uncomfortable by a community member, please contact one of the channel ops or any of the { $coc-rust-moderation-team-anchor } immediately. Whether you’re a regular contributor or a newcomer, we care about making this community a safe place for you and we’ve got your back.</li>
+          <li>Tajriba darajasi, jinsi va o‘zini ifoda etishi, jinsiy orientatsiyasi, nogironligi, tashqi ko‘rinishi, tana o‘lchami, irqi, etnik kelib chiqishi, yoshi, dini, milliy kelib chiqishi yoki boshqa shunga o‘xshash xususiyatlaridan qat’i nazar, hamma uchun do‘stona, xavfsiz va mehmondo‘st muhitni ta’minlashga intilamiz.</li>
+          <li>Iltimos, hamma uchun do'stona, xavfsiz va mehmondo'st muhitni buzishi mumkin bo'lgan shahvoniy taxalluslar yoki boshqa taxalluslardan foydalanmang.</li>
+          <li>Iltimos, mehribon va xushmuomala bo'ling. Qo'pol yoki jaxldor bo'lishga hojat yo'q.</li>
+          <li>Odamlarning fikrlari turlicha ekanligini va har bir dizayn yoki amalga oshirish tanlovi o'zaro kelishuv va ko'p xarajatlarga olib kelishini hurmat qiling. Kamdan-kam hollarda to'g'ri javob bo'ladi.</li>
+          <li>Iltimos, tuzilmagan tanqidni minimal darajada saqlang. Agar sizda tajriba o'tkazmoqchi bo'lgan qat'iy g'oyalaringiz bo'lsa, forklar yasang va uning qanday ishlashini ko'ring.</li>
+          <li>Agar siz kimnidir xafa qilsangiz, kamsitsangiz yoki xafa qilsangiz, biz sizni muloqotdan chetlatamiz. Bu yaxshi xatti-harakatlar emas. Biz "bezorilik" atamasini <a href="https://github.com/stumpsyn/policies/blob/master/citizen_code_of_conduct.md dagi ta'rifni o'z ichiga olgan holda izohlaymiz">Citizen Code of Conduct</a>; Agar siz ushbu kontseptsiyaga nimani kiritish mumkinligini aniq bilmasangiz, ularning ta'rifini o'qing. Xususan, biz ijtimoiy jihatdan marginal guruhlardagi odamlarni istisno qiladigan xatti-harakatlarga toqat qilmaymiz.</li>
+          <li>Shaxsiy ta'qiblar ham qabul qilinishi mumkin emas. Kim bo‘lishingizdan qat’iy nazar, agar siz hamjamiyat a’zosi tomonidan bezovta qilgandek yoki bezovta qilayotganini his qilsangiz, darhol kanal xodimlaridan biri yoki { $coc-rust-moderation-team-anchor } bilan bog‘laning. Doimiy ishtirokchi boʻlasizmi yoki yangi kelgan boʻlasizmi, biz bu hamjamiyatni siz uchun xavfsiz joyga aylantirish haqida qaygʻuramiz va biz sizni qoʻllab-quvvatlaymiz.</li>
           <li>Likewise any spamming, trolling, flaming, baiting or other attention-stealing behavior is not welcome.</li>
         </ul>
-coc-conduct-description-team-anchor-text = Rust moderation team
-coc-conduct-email-button = Email The Moderation Team
+coc-conduct-description-team-anchor-text = Rust moderator jamoasi
+coc-conduct-email-button = Moderator guruhiga elektron pochta xabari yuborish
 
-coc-moderation-heading = Moderation
+coc-moderation-heading = Moderator
 coc-moderation-description =
-        <p>These are the policies for upholding our community’s standards of conduct. If you feel that a thread needs moderation, please contact the { $coc-rust-moderation-team-anchor }.</p>
+        <p>Bular jamiyatimizning xulq-atvor standartlarini qo'llab-quvvatlash siyosatidir. Agar mavzu moderatsiyaga muhtoj deb hisoblasangiz, { $coc-rust-moderation-team-anchor } bilan bog‘laning.</p>
         <ol>
           <li>Remarks that violate the Rust standards of conduct, including hateful, hurtful, oppressive, or exclusionary remarks, are not allowed. (Cursing is allowed, but never targeting another user, and never in a hateful manner.)</li>
           <li>Remarks that moderators find inappropriate, whether listed in the code of conduct or not, are also not allowed.</li>

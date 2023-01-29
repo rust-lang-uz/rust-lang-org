@@ -2,5 +2,5 @@
 
 ## 404 (templates/404.hbs)
 error404-page-title = 404
-error404-subtitle = Voy, bu sahifa mavjud emas :-(
+error404-subtitle = Bu sahifa mavjud emas :-(
 error404-img-alt = 404 rasm topilmadi
