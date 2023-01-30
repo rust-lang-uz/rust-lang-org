@@ -1,61 +1,51 @@
 ## templates/community/index.hbs
 
-community-page-title = Community
-community-blurb =  The Rust programming language has many qualities, but Rust’s greatest
-          strength is the community of people who come together to make working in
-          Rust a rewarding experience.
-community-twir = Stay up to date with the Rust community!
-community-twir-button = This Week in Rust
-community-team-contact = We’d like to hear from you! Not sure where or who to ask a question? Want to get involved but aren’t sure how?
-          The community team is eager to connect you with someone who can help!
-community-team-button = email { ENGLISH("community@rust-lang.org") }
+community-page-title = Hamjamiyat
+community-blurb =  Rust dasturlash tili juda ko'p fazilatlarga ega, ammo Rustning eng katta kuchi bu Rust bilan ishlashni foydali tajriba qilish uchun birlashadigan odamlar jamoasidir.
+community-twir = Rust hamjamiyatidan xabardor bo'ling!
+community-twir-button = Bu hafta Rustda
+community-team-contact = Sizdan eshitmoqchimiz! Qayerga yoki kimga savol berishni bilmayapsizmi? Ishtirok etishni xohlaysizmi, lekin qanday qo'shilishni bilmayapsizmi? Hamjamiyat jamoasi sizni yordam bera oladigan odam bilan bog'lashga tayyor!
+community-team-button = elektron pochta { ENGLISH("community@rust-lang.org") }
 
-community-where = Where to talk
-community-learn = Where to learn
+community-where = Qayerda suhbatlashish kerak
+community-learn = Qayerda o'rganish kerak
 
-community-get-in-contact = Get in contact
-community-read-about = Read about Rust
+community-get-in-contact = Jamiyat bilan aloqada bo'ling
+community-read-about = Rust haqida o'qing
 
-community-urlo-header = Users forum
-community-urlo = The Rust Users Forum is a place for Rust users to communicate about
-            anything and everything related to Rust. Ask questions here,
-            coordinate on project ideas, whatever you like!
-community-discourse-button = Visit Forum
+community-urlo-header = Foydalanuvchilar forumi
+community-urlo = Rust foydalanuvchilari forumi - bu Rust foydalanuvchilari Rust bilan bog'liq barcha narsalar haqida suhbatlashishlari mumkin bo'lgan joy. Bu erda siz savollar berishingiz, loyiha g'oyalari bo'yicha kelishishingiz va boshqa ko'p narsalarni qilishingiz mumkin!
+community-discourse-button = Forumga tashrif buyuring
 
-community-irlo-header = Internals forum
-community-irlo = The Rust Internals Forum is a place for discussion about the
-            development of Rust itself &ndash; including work on the compiler
-            as well as the design of the language and the standard library.
+community-irlo-header = Ichki forum
+community-irlo = Rust Internals Forum - bu Rustning rivojlanishi, jumladan kompilyator ustida ishlash, shuningdek, til dizayni va standart kutubxona haqida muhokama qilish uchun joy.
 
-community-chat-header = Chat platforms
-community-chat = Development of Rust, and general chatter happens on several chat platforms. Check out general channels and more on the Rust Discord server, or check out the teams page to find where specific teams meet.
+community-chat-header = Chat platformalari
+community-chat = Rustning rivojlanishi va umumiy suhbat bir nechta chat platformalarida amalga oshiriladi. Rust Discord serveridagi umumiy kanallarni va boshqalarni tekshiring yoki aniq jamoalar qayerda uchrashishini bilish uchun jamoalar sahifasini tekshiring.
 
-community-teams-learn = Learn more about teams
+community-teams-learn = Jamoalar haqida ko'proq bilib oling
 
-community-events-header = Events
-community-meetup-header = Find a local meetup or conference
-community-meetup = There are more than 90 Meetups and several conferences worldwide in over 35 countries. Rustaceans meet periodically in Rust User Groups. They are a great introduction to the community and a great way to learn and socialize with other people with a similar interest. Meetings are usually informal and open to everyone.
-community-calendar = View Calendar
-community-conference-lineup = Check out the 2020 Conference Lineup
-community-timetill-cta = See conference lineup on timetill.rs
+community-events-header = Eventlar
+community-meetup-header = Mahalliy uchrashuv yoki konferentsiyani toping
+community-meetup = Dunyo bo'ylab 35 dan ortiq mamlakatlarda 90 dan ortiq uchrashuvlar va bir nechta konferensiyalar mavjud. Rustaceanlar vaqti-vaqti bilan Rust foydalanuvchilari guruhlarida uchrashadilar. Ular jamiyatga kirish uchun ajoyib joy va o'xshash qiziqishlarga ega bo'lgan boshqalar bilan o'rganish va bog'lanishning ajoyib usuli. Uchrashuvlar odatda norasmiy va hamma uchun ochiq.
+community-calendar = Kalendarni ko'rish
+community-conference-lineup = 2020 yilgi konferensiya tarkibi bilan tanishing
+community-timetill-cta = Konferensiya tarkibini timetill.rs saytida ko'ring
 
-community-event-run-header = Run your own event
+community-event-run-header = O'zingizning tadbiringizni o'tkazing
 community-event-run =
           <p>
-            As Rust grows, we’re excited to help folks start their own local events.
-            From hack and learns, to meetups, to conferences, the Rust Events Team is
-            ready to help support you.
+            Rust o'sib ulg'aygan sayin, biz odamlarga o'zlarining mahalliy tadbirlarini boshlashlariga yordam berishdan xursandmiz. Rust Events Team sizga darsliklardan tortib katta konferensiyalar va uchrashuvlargacha hamma narsani tashkil qilishda yordam berish uchun shu yerda.
           </p>
           <p>
-            Registering your event helps us to keep track of our community efforts and
-            allows us to connect you to speakers or other members in your area.
+            Tadbiringizni roʻyxatdan oʻtkazish bizga hamjamiyatimizdagi harakatlarimizni kuzatishga yordam beradi va sizni mintaqangizdagi maʼruzachilar yoki boshqa ishtirokchilar bilan bogʻlash imkonini beradi.
           </p>
 community-events-repo = Check out the events team repo
-community-event-register = Register your event
-community-rustfest-alt = Rustfest participants
+community-event-register = Tadbiringizni ro'yxatdan o'tkazing
+community-rustfest-alt = Rustfest ishtirokchilari
 
 community-rustbridge-header = Rustbridge
-community-rustbridge = RustBridge is a workshop focused on getting underrepresented people with a background in another programming language to learn Rust and join the community.
+community-rustbridge = RustBridge - bu boshqa dasturlash tilida ma'lumotga ega bo'lmagan odamlarni Rustni o'rganish va hamjamiyatga qo'shilishga qaratilgan seminar.
 community-rustbridge-button = Check out the Rustbridge repo
 
 community-rustbridge-rustconf-alt = RustBridge at RustConf
