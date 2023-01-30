@@ -48,17 +48,17 @@ community-rustbridge-header = Rustbridge
 community-rustbridge = RustBridge - bu boshqa dasturlash tilida ma'lumotga ega bo'lmagan odamlarni Rustni o'rganish va hamjamiyatga qo'shilishga qaratilgan seminar.
 community-rustbridge-button = Check out the Rustbridge repo
 
-community-rustbridge-rustconf-alt = RustBridge at RustConf
-community-rustbridge-paris-alt = RustBridge Paris
+community-rustbridge-rustconf-alt = RustConf va RustBridge
+community-rustbridge-paris-alt = RustBridge Parij
 community-rustbridge-berlin-alt = RustBridge Berlin
-community-rustbridge-rbr-alt = RustBridge at Rust Belt Rust
+community-rustbridge-rbr-alt = RustBridge va Rust Belt Rust
 
 
-community-irr-header = Increasing Rust’s Reach
-community-irr = Increasing Rust’s Reach is a program that matches Rust team members from all parts of the project with individuals who are underrepresented in Rust’s community and the tech industry for a partnership of three (3) months, from mid-May to mid-August. Each partnership agrees to a commitment of 3–5 hours per week working on a Rust Project.
-community-irr-button = Visit Website
+community-irr-header = Rustning kirishini oshirish
+community-irr = Rust foydalanish imkoniyatini oshirish - bu dastur bo'lib, unda barcha jamoalar a'zolari uch (3) oy davomida, may oyining o'rtalaridan avgust oyining o'rtalariga qadar Rust hamjamiyatida va texnologiya sanoatida kam vakil bo'lgan shaxslar bilan hamkorlikda ishlaydi. Har bir sherik haftasiga 3-5 soat Rust ustida ishlashga rozi bo'ladi.
+community-irr-button = Veb-saytga tashrif buyuring
 
-community-standards-header = Community Standards
+community-standards-header = Hamjamiyat standartlari
 community-standards =
         We are committed to providing a friendly, safe and welcoming environment
         for all, regardless of gender, sexual orientation, disability, ethnicity,
@@ -72,6 +72,6 @@ community-standards =
         immediately. Whether you are a regular contributor or a newcomer, we care
         about making the community a safe space for you.
 
-community-mod-button = Message the moderation team
-community-coc-button = read the code of conduct
-community-mod-guidelines-button = read the moderation guidelines
+community-mod-button = Moderatsiya guruhiga xabar yuboring
+community-coc-button = odob-axloq qoidalarini o'qing
+community-mod-guidelines-button = moderatsiya bo'yicha ko'rsatmalarni o'qing
